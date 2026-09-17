@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/SuryaBhaskar
   gitUsername: SuryaBhaskar
   gitBranch: main
+services:
+- serviceName: project.suryatestiwhi1.integrations:addIntsDAF
+  packages:
+  - name: SuryaTestiwhi1Project
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1143
