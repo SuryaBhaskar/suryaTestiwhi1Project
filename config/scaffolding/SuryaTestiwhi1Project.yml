@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SuryaTestiwhi1Project
+  gitServerName: Surya1
+  gitUrl: https://github.com/SuryaBhaskar
+  gitUsername: SuryaBhaskar
+  gitBranch: main
